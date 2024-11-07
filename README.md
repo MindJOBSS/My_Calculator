@@ -1,6 +1,6 @@
 # My_Calculator
 Project Description: Python Calculator
-he Python Calculator project is a simple yet functional application built using Python and the Tkinter library for graphical user interface (GUI) development. This project serves as a practical implementation of core programming concepts learned during my coding journey, particularly during the first 35 days of the #100DaysOfCode challenge. The calculator is designed to perform basic arithmetic operations including addition, subtraction, multiplication, and division, providing a user-friendly experience.
+The Python Calculator project is a simple yet functional application built using Python and the Tkinter library for graphical user interface (GUI) development. This project serves as a practical implementation of core programming concepts learned during my coding journey, particularly during the first 35 days of the #100DaysOfCode challenge. The calculator is designed to perform basic arithmetic operations including addition, subtraction, multiplication, and division, providing a user-friendly experience.
 
 Key Features:
 User-Friendly Interface:
